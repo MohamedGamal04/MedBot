@@ -110,6 +110,6 @@ if __name__ == "__main__":
     import sys
     import subprocess
     subprocess.run(
-            [sys.executable, "-m", "chainlit", "run", "chainlit-test.py", "-w" ], 
+            [sys.executable, "-m", "chainlit", "run", "llm-interface.py", "-w" ], 
             cwd="/home/jimmy/Documents/my_langchain_experiments/medibot"
         )
