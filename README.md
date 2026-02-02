@@ -14,7 +14,6 @@ A sophisticated medical assistant application powered by LangChain, LangGraph, a
 - [How It Works](#how-it-works)
 - [API Overview](#api-overview)
 - [Database](#database)
-- [Future Enhancements](#future-enhancements)
 
 ## Features
 
